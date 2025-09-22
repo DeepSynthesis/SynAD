@@ -1,0 +1,68 @@
+data_info = {
+    "ULD": {
+        "reagent_columns": ["ligand1", "ligand2", "metal", "reactant1", "reactant2", "product", "add1", "add2", "solv"],
+        "data_columns": ["cat_amount", "temperature", "time"],
+        "target": "yield",
+    },
+    "CPA_lit": {
+        "reagent_columns": ["imine_smiles", "nuc_smiles", "ligand_smiles", "solvent_smiles"],
+        "data_columns": ["temperature"],
+        "target": "ddG",
+    },
+    "NiCOlit": {
+        "reagent_columns": ["substrate", "effective_coupling_partner", "pre_catalyst", "solvent", "effective_reagents", "effective_ligand"],
+        "data_columns": ["eq_substrate", "eq_coupling_partner", "eq_catalyst", "eq_reagent", "eq_ligand", "temperature", "time"],
+        "target": "yield",
+    },
+    "B-H_HTE": {
+        "reagent_columns": ["base_smiles", "ligand_smiles", "aryl_halide_smiles", "additive_smiles"],
+        "data_columns": [],
+        "target": "yield",
+    },
+    "CPA_HTE": {
+        "reagent_columns": ["catalyst", "imine", "thiol"],
+        "data_columns": [],
+        "target": "ddG",
+    },
+    "Pd-catalyzed_lit": {
+        "reagent_columns": [
+            "sub1",
+            "sub2",
+            "product",
+            "Pd_precursor",
+            "ligand_P",
+            "base1",
+            "base2",
+            "add",
+            "oxidant",
+            "solvent1",
+            "solvent2",
+            "carbon_source",
+        ],
+        "data_columns": [
+            "c_sub1",
+            "c_sub2",
+            "c_Pd",
+            "c_ligand",
+            "c_base1",
+            "c_base2",
+            "c_add",
+            "c_oxidant",
+            "solvent_ratio",
+            "temperature",
+        ],
+        "target": "yield",
+    },
+    "Suzuki_HTE": {
+        "reagent_columns": [
+            "reactant1_smiles",
+            "reactant2_smiles",
+            "catalyst1_smiles",
+            "ligand_smiles",
+            "additive1_smiles",
+            "solvent_smiles",
+        ],
+        "data_columns": ["reactant1_eq", "reactant2_eq", "catalyst1_eq", "ligand_eq", "additive_eq"],
+        "target": "yield",
+    },
+}

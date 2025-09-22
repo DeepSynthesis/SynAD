@@ -1,0 +1,12 @@
+2024-01-12 16:00:13.696 | INFO     | modules.TreeMethods:catboost_regression:248 - -----generate at Fri Jan 12 16:00:13 2024-----
+2024-01-12 16:00:13.696 | INFO     | modules.TreeMethods:catboost_regression:249 - {'depth': 10, 'fold_len_multiplier': 7.207085801532025, 'l2_leaf_reg': 3, 'learning_rate': 0.009975787805653686}
+2024-01-12 16:00:13.696 | INFO     | modules.TreeMethods:catboost_regression:250 - ----------------------------------------------
+
+
+
+
+2024-03-10 00:09:17.690 | INFO     | modules.TreeMethods:regression_core:90 - -----generate at Sun Mar 10 00:09:17 2024-----
+2024-03-10 00:09:17.690 | INFO     | modules.TreeMethods:regression_core:91 - {'depth': 10, 'fold_len_multiplier': 1.455951102251717, 'l2_leaf_reg': 4, 'learning_rate': 0.009963426102388094}
+2024-03-10 00:09:17.691 | INFO     | modules.TreeMethods:regression_core:92 - ----------------------------------------------
+
+

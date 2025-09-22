@@ -1,0 +1,38 @@
+2024-01-12 22:58:42.456 | INFO     | modules.TreeMethods:regression_core:69 - -----generate at Fri Jan 12 22:58:42 2024-----
+2024-01-12 22:58:42.457 | INFO     | modules.TreeMethods:regression_core:70 - {'alpha': 0.48902197589451607, 'eta': 0.04431837936575679, 'gamma': 9.923257197812333, 'lambda': 0.3325845717034947, 'max_depth': 6, 'min_child_weight': 4.931092561571353, 'subsample': 0.5831767778220008}
+2024-01-12 22:58:42.457 | INFO     | modules.TreeMethods:regression_core:71 - ----------------------------------------------
+
+
+2024-03-07 18:33:46.709 | INFO     | modules.TreeMethods:regression_core:90 - -----generate at Thu Mar  7 18:33:46 2024-----
+2024-03-07 18:33:46.710 | INFO     | modules.TreeMethods:regression_core:91 - {'alpha': 0.44516067787278396, 'eta': 0.05243064793391662, 'gamma': 3.7088141317564767, 'lambda': 0.9181152782997628, 'max_depth': 9, 'min_child_weight': 6.854668732728389, 'subsample': 0.7962414201731639}
+2024-03-07 18:33:46.710 | INFO     | modules.TreeMethods:regression_core:92 - ----------------------------------------------
+
+
+2024-03-17 22:03:38.567 | INFO     | modules.TreeMethods:regression_core:90 - -----generate at Sun Mar 17 22:03:38 2024-----
+2024-03-17 22:03:38.568 | INFO     | modules.TreeMethods:regression_core:91 - {'alpha': 0.44516067787278396, 'eta': 0.05243064793391662, 'gamma': 3.7088141317564767, 'lambda': 0.9181152782997628, 'max_depth': 13, 'min_child_weight': 6.854668732728389, 'subsample': 0.7962414201731639}
+2024-03-17 22:03:38.568 | INFO     | modules.TreeMethods:regression_core:92 - ----------------------------------------------
+
+
+2024-03-27 17:52:55.684 | INFO     | modules.TreeMethods:hyper_opt:91 - -----generate at Wed Mar 27 17:52:55 2024-----
+2024-03-27 17:52:55.684 | INFO     | modules.TreeMethods:hyper_opt:92 - {'alpha': 0.44516067787278396, 'eta': 0.05243064793391662, 'gamma': 3.7088141317564767, 'lambda': 0.9181152782997628, 'max_depth': 13, 'min_child_weight': 6.854668732728389, 'subsample': 0.7962414201731639}
+2024-03-27 17:52:55.685 | INFO     | modules.TreeMethods:hyper_opt:93 - ----------------------------------------------
+
+
+2024-03-27 21:39:27.652 | INFO     | modules.TreeMethods:hyper_opt:91 - -----generate at Wed Mar 27 21:39:27 2024-----
+2024-03-27 21:39:27.652 | INFO     | modules.TreeMethods:hyper_opt:92 - {'alpha': 0.44516067787278396, 'eta': 0.05243064793391662, 'gamma': 3.7088141317564767, 'lambda': 0.9181152782997628, 'max_depth': 13, 'min_child_weight': 6.854668732728389, 'subsample': 0.7962414201731639}
+2024-03-27 21:39:27.652 | INFO     | modules.TreeMethods:hyper_opt:93 - ----------------------------------------------
+
+
+2024-07-03 18:47:46.875 | INFO     | modules.Methods:hyper_opt:138 - -----generate at Wed Jul  3 18:47:46 2024-----
+2024-07-03 18:47:46.875 | INFO     | modules.Methods:hyper_opt:139 - {'alpha': 0.8567172944601594, 'eta': 0.04652048820461861, 'gamma': 8.004764599050205, 'lambda': 0.2988771193011762, 'max_depth': 11, 'min_child_weight': 9.662743821684952, 'subsample': 0.8702021783627013}
+2024-07-03 18:47:46.876 | INFO     | modules.Methods:hyper_opt:140 - ----------------------------------------------
+
+
+2024-07-09 18:07:03.300 | INFO     | modules.Methods:hyper_opt:143 - -----generate at Tue Jul  9 18:07:03 2024-----
+2024-07-09 18:07:03.301 | INFO     | modules.Methods:hyper_opt:144 - {'alpha': 0.8567172944601594, 'eta': 0.04652048820461861, 'gamma': 8.004764599050205, 'lambda': 0.2988771193011762, 'max_depth': 11, 'min_child_weight': 9.662743821684952, 'subsample': 0.8702021783627013}
+2024-07-09 18:07:03.301 | INFO     | modules.Methods:hyper_opt:145 - ----------------------------------------------
+
+
+2024-08-27 09:59:04.892 | INFO     | modules.Methods:hyper_opt:143 - -----generate at Tue Aug 27 09:59:04 2024-----
+2024-08-27 09:59:04.893 | INFO     | modules.Methods:hyper_opt:144 - {'alpha': 9.667075850659717, 'eta': 0.0442785600746466, 'gamma': 8.721245197151806, 'lambda': 0.6539195562488496, 'max_depth': 8, 'min_child_weight': 5.864208087478805, 'subsample': 0.8040577617522411}
+2024-08-27 09:59:04.893 | INFO     | modules.Methods:hyper_opt:145 - ----------------------------------------------

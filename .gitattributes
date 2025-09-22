@@ -1,0 +1,4 @@
+src/logs/ULD/ligand_expanded_data/dist_matrix_file.npy filter=lfs diff=lfs merge=lfs -text
+descriptor/ULD/QMdesc_reactant.h5 filter=lfs diff=lfs merge=lfs -text
+src/logs/ULD/ligand_expanded_data/ligand1_synad_results_easy.csv filter=lfs diff=lfs merge=lfs -text
+src/logs/ULD/ligand_expanded_data/ligand1_synad_results_hard.csv filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,21 @@
+2023-11-13 20:47:24.930 | INFO     | modules.TreeMethods:gaussian_regression:222 - -----generate at Mon Nov 13 20:47:24 2023-----
+2023-11-13 20:47:24.931 | INFO     | modules.TreeMethods:gaussian_regression:223 - {'alpha': 0.27761504296810335, 'n_restarts_optimizer': 8}
+2023-11-13 20:47:24.931 | INFO     | modules.TreeMethods:gaussian_regression:224 - ----------------------------------------------
+
+
+
+2024-05-23 09:27:46.138 | INFO     | modules.Methods:hyper_opt:138 - -----generate at Thu May 23 09:27:46 2024-----
+2024-05-23 09:27:46.138 | INFO     | modules.Methods:hyper_opt:139 - {'alpha': 0.3458762102200355, 'n_restarts_optimizer': 1}
+2024-05-23 09:27:46.138 | INFO     | modules.Methods:hyper_opt:140 - ----------------------------------------------
+
+
+2024-05-23 14:03:36.395 | INFO     | modules.Methods:hyper_opt:138 - -----generate at Thu May 23 14:03:36 2024-----
+2024-05-23 14:03:36.395 | INFO     | modules.Methods:hyper_opt:139 - {'alpha': 0.02361182245802447, 'n_restarts_optimizer': 8}
+2024-05-23 14:03:36.396 | INFO     | modules.Methods:hyper_opt:140 - ----------------------------------------------
+
+
+2024-05-23 14:29:52.156 | INFO     | modules.Methods:hyper_opt:138 - -----generate at Thu May 23 14:29:52 2024-----
+2024-05-23 14:29:52.156 | INFO     | modules.Methods:hyper_opt:139 - {'alpha': 0.014684173337098927, 'n_restarts_optimizer': 3}
+2024-05-23 14:29:52.156 | INFO     | modules.Methods:hyper_opt:140 - ----------------------------------------------
+
+

@@ -1,0 +1,5 @@
+2024-01-15 06:59:18.310 | INFO     | modules.TreeMethods:regression_core:69 - -----generate at Mon Jan 15 06:59:18 2024-----
+2024-01-15 06:59:18.310 | INFO     | modules.TreeMethods:regression_core:70 - {'C': 160.98054077648808, 'tol': 0.4675478053019785}
+2024-01-15 06:59:18.310 | INFO     | modules.TreeMethods:regression_core:71 - ----------------------------------------------
+
+

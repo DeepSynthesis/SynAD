@@ -1,0 +1,15 @@
+2024-01-12 17:08:57.568 | INFO     | modules.TreeMethods:adaboost_regression:292 - -----generate at Fri Jan 12 17:08:57 2024-----
+2024-01-12 17:08:57.568 | INFO     | modules.TreeMethods:adaboost_regression:293 - {'learning_rate': 0.007731036588546939, 'loss': 'square', 'n_estimators': 855}
+2024-01-12 17:08:57.569 | INFO     | modules.TreeMethods:adaboost_regression:294 - ----------------------------------------------
+
+
+2024-03-14 01:36:16.710 | INFO     | modules.TreeMethods:regression_core:89 - -----generate at Thu Mar 14 01:36:16 2024-----
+2024-03-14 01:36:16.710 | INFO     | modules.TreeMethods:regression_core:90 - {'learning_rate': 0.005443608122738973, 'loss': 'exponential', 'n_estimators': 781}
+2024-03-14 01:36:16.710 | INFO     | modules.TreeMethods:regression_core:91 - ----------------------------------------------
+
+
+2024-07-04 11:03:30.326 | INFO     | modules.Methods:hyper_opt:138 - -----generate at Thu Jul  4 11:03:30 2024-----
+2024-07-04 11:03:30.326 | INFO     | modules.Methods:hyper_opt:139 - {'learning_rate': 0.007017438717602233, 'loss': 'linear', 'n_estimators': 598}
+2024-07-04 11:03:30.326 | INFO     | modules.Methods:hyper_opt:140 - ----------------------------------------------
+
+

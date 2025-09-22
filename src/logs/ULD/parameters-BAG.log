@@ -1,0 +1,7 @@
+2024-01-11 18:08:24.389 | INFO     | modules.TreeMethods:bagging_regression:324 - -----generate at Thu Jan 11 18:08:24 2024-----
+2024-01-11 18:08:24.390 | INFO     | modules.TreeMethods:bagging_regression:325 - {'max_features': 0.30492125333704645, 'max_samples': 0.9958162326725295, 'n_estimators': 7820}
+2024-01-11 18:08:24.390 | INFO     | modules.TreeMethods:bagging_regression:326 - ----------------------------------------------
+
+
+
+

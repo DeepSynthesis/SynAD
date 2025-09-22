@@ -1,0 +1,15 @@
+2023-12-15 21:53:03.628 | INFO     | modules.TreeMethods:random_forest_regression:120 - -----generate at Fri Dec 15 21:53:03 2023-----
+2023-12-15 21:53:03.629 | INFO     | modules.TreeMethods:random_forest_regression:121 - {'criterion': 'squared_error', 'max_features': 'log2', 'min_samples_leaf': 0.002052566850254109, 'min_samples_split': 0.0006716606591866126, 'n_estimators': 2481}
+2023-12-15 21:53:03.629 | INFO     | modules.TreeMethods:random_forest_regression:122 - ----------------------------------------------
+
+
+2024-03-11 00:16:46.326 | INFO     | modules.TreeMethods:regression_core:90 - -----generate at Mon Mar 11 00:16:46 2024-----
+2024-03-11 00:16:46.326 | INFO     | modules.TreeMethods:regression_core:91 - {'criterion': 'squared_error', 'max_features': 'log2', 'min_samples_leaf': 0.0009432641689363745, 'min_samples_split': 0.006934993272978835, 'n_estimators': 841}
+2024-03-11 00:16:46.327 | INFO     | modules.TreeMethods:regression_core:92 - ----------------------------------------------
+
+
+2024-07-08 23:02:19.212 | INFO     | modules.Methods:hyper_opt:138 - -----generate at Mon Jul  8 23:02:19 2024-----
+2024-07-08 23:02:19.212 | INFO     | modules.Methods:hyper_opt:139 - {'criterion': 'absolute_error', 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 4, 'n_estimators': 446}
+2024-07-08 23:02:19.212 | INFO     | modules.Methods:hyper_opt:140 - ----------------------------------------------
+
+
