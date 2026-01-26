@@ -79,7 +79,7 @@ SynAD is model-agnostic, supporting a wide range of models from classical machin
 
 ## Supported Datasets
 
-- ULD (Ullmann ligand dataset). Here, we currently provide 200 representative samples from the ULD dataset in data/ULD.xlsx. The complete dataset will be made publicly available following the publication of our paper (in line with standard academic data-sharing practices). For access to the full dataset prior to formal publication, you may [contact the authors](mailto:tzz24@mails.tsinghua.edu.cn) to request a copy upon reasonable request (e.g., for research purposes aligned with the study’s scope).
+- ULD (Ullmann ligand dataset).
 - Custom reaction datasets (with proper formatting)
 
 
