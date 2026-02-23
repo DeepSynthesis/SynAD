@@ -80,7 +80,7 @@ SynAD is model-agnostic, supporting a wide range of models from classical machin
 ## Supported Datasets
 
 - ULD (Ullmann ligand dataset).
-- Custom reaction datasets (with proper formatting)
+- Custom reaction datasets (with proper formattings)
 
 
 ## License
